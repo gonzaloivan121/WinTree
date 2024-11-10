@@ -1,0 +1,96 @@
+Language:
+  Translations:
+    # START - Menu
+    MENU.FILE: Archivo
+    MENU.VIEW: Vista
+    MENU.EXPORT: Exportar
+    MENU.HELP: Ayuda
+    MENU.FILE.NEW_SCENE: Nueva Escena
+    MENU.FILE.NEW_SCENE.NAME: Nombre
+    MENU.FILE.NEW_SCENE.CREATE: Crear
+    MENU.FILE.NEW_SCENE.CANCEL: Cancelar
+    MENU.FILE.SAVE_SCENE: Guardar Escena
+    MENU.FILE.LOAD_SCENE: Cargar Escena
+    MENU.FILE.EXIT: Salir
+    MENU.VIEW.SHOW_SCENE: Mostrar Escena
+    MENU.VIEW.SHOW_SETTINGS: Mostrar Ajustes
+    MENU.VIEW.SHOW_STATS: Mostrar Estadísticas
+    MENU.VIEW.SHOW_VIEWPORT: Mostrar Ventana Gráfica
+    MENU.EXPORT.IMAGE: Imagen
+    MENU.HELP.ABOUT: Acerca De
+    MENU.HELP.CONTROLS: Controles
+    # END - Menu
+    # START - Editor
+    EDITOR.SCENE: Escena##Scene
+    EDITOR.SETTINGS: Ajustes
+    EDITOR.STATS: Estadísticas
+    EDITOR.VIEWPORT: Ventana Gráfica
+    # START - Scene
+    EDITOR.SCENE.CAMERA: Cámara
+    EDITOR.SCENE.CAMERA.POSITION: Posición
+    EDITOR.SCENE.CAMERA.VERTICAL_FOV: FOV Vertical
+    EDITOR.SCENE.CAMERA.NEAR_CLIP: Clip Cercano
+    EDITOR.SCENE.CAMERA.FAR_CLIP: Clip Lejano
+    EDITOR.SCENE.CAMERA.NORMAL_SPEED: Velocidad Normal
+    EDITOR.SCENE.CAMERA.FAST_SPEED: Velocidad Rápida
+    EDITOR.SCENE.CAMERA.ROTATION_SPEED: Velocidad de Rotación
+    EDITOR.SCENE.SKY: Cielo
+    EDITOR.SCENE.SKY.ENABLED: Activado
+    EDITOR.SCENE.SKY.COLOR: Color
+    EDITOR.SCENE.LIGHTS: Luces
+    EDITOR.SCENE.LIGHTS.ADD: Agregar##Light
+    EDITOR.SCENE.LIGHTS.ENABLED: Activada
+    EDITOR.SCENE.LIGHTS.POSITION: Posición
+    EDITOR.SCENE.LIGHTS.REMOVE: Eliminar
+    EDITOR.SCENE.SPHERES: Esferas
+    EDITOR.SCENE.SPHERES.ADD: Agregar##Sphere
+    EDITOR.SCENE.SPHERES.ENABLED: Activada
+    EDITOR.SCENE.SPHERES.POSITION: Posición
+    EDITOR.SCENE.SPHERES.RADIUS: Radio
+    EDITOR.SCENE.SPHERES.MATERIAL: Material
+    EDITOR.SCENE.SPHERES.REMOVE: Eliminar
+    EDITOR.SCENE.MATERIALS: Materiales
+    EDITOR.SCENE.MATERIALS.ADD: Agregar##Material
+    EDITOR.SCENE.MATERIALS.NAME: Nombre
+    EDITOR.SCENE.MATERIALS.ALBEDO: Albedo
+    EDITOR.SCENE.MATERIALS.ROUGHNESS: Aspereza
+    EDITOR.SCENE.MATERIALS.METALLIC: Metálico
+    EDITOR.SCENE.MATERIALS.EMISSION_COLOR: Color de Emisión
+    EDITOR.SCENE.MATERIALS.EMISSION_POWER: Potencia de Emisión
+    EDITOR.SCENE.MATERIALS.REMOVE: Eliminar
+    # END - Scene
+    # START - Settings
+    EDITOR.SETTINGS.RENDERER_SETTINGS: Ajustes del Renderizador
+    EDITOR.SETTINGS.FAST_RANDOM_SETTINGS: Ajustes del Aleatorio Rápido
+    EDITOR.SETTINGS.LANGUAGE: Idioma
+    EDITOR.SETTINGS.RENDERER_SETTINGS.ACCUMULATE: Acumular
+    EDITOR.SETTINGS.RENDERER_SETTINGS.MULTITHREADING: Multiprocesamiento
+    EDITOR.SETTINGS.RENDERER_SETTINGS.FAST_RANDOM: Aleatorio Rápido
+    EDITOR.SETTINGS.RENDERER_SETTINGS.RAY_BOUNCES: Rebotes del Rayo
+    EDITOR.SETTINGS.RENDERER_SETTINGS.RESOLUTION_SCALE: Escala de Resolución
+    EDITOR.SETTINGS.RENDERER_SETTINGS.RESET_ACCUMULATION: Reiniciar Acumulación
+    EDITOR.SETTINGS.FAST_RANDOM_SETTINGS.USE_CLOCK_TIME: Usar Tiempo del Relox
+    EDITOR.SETTINGS.FAST_RANDOM_SETTINGS.USE_FRAME_INDEX: Usar Índice del Frame
+    EDITOR.SETTINGS.FAST_RANDOM_SETTINGS.USE_RAY_BOUNCES: Usar Rebotes del Rayo
+    EDITOR.SETTINGS.LANGUAGE.LANGUAGE: Idioma
+    # END - Settings
+    # START - Stats
+    EDITOR.STATS.LAST_RENDER_TIME: Tiempo del último renderizado
+    EDITOR.STATS.FPS: FPS
+    EDITOR.STATS.ACCUMULATED_FRAMES: Frames acumulados
+    # END - Stats
+    # END - Editor
+    # START - About
+    ABOUT.ABOUT: Acerca de
+    ABOUT.DESCRIPTION: Aplicación de Ray Tracing por Gonzalo Chaparro.
+    ABOUT.CLOSE: Cerrar
+    # END - About
+    # START - Controls
+    CONTROLS.CONTROLS: Controles
+    CONTROLS.DESCRIPTION.1: Left click on the Viewport to focus it.
+    CONTROLS.DESCRIPTION.2: Left click on the Viewport to focus it.
+    CONTROLS.DESCRIPTION.3: Left click on the Viewport to focus it.
+    CONTROLS.DESCRIPTION.4: Left click on the Viewport to focus it.
+    CONTROLS.DESCRIPTION.5: Left click on the Viewport to focus it.
+    CONTROLS.CLOSE: Cerrar
+    # END - Controls
